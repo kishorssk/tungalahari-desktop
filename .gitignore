@@ -1,0 +1,7 @@
+.junk/
+public/awardees/*.jpg
+public/awardees/*/*.jpg
+public/awardees/*/*/*.jpg
+public/awardees/*.JPG
+public/awardees/*/*.JPG
+public/awardees/*/*/*.JPG
