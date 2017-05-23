@@ -1,10 +1,16 @@
-<div class="container">
-	<div class="row b-border">
+<div class="container b-img">
+	<div class="row">
 		<div class="col-lg-12 text-center">
 			<img src="<?=STOCK_IMAGE_URL?>002.jpg" alt="" class="img-thumbnail">
-			<p class="album-text">Śrī Śāradā Stuti Mañjarī - Vol.2</p>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-lg-12 followMeBar text-center">
+					<p class="album-text">Śrī Śāradā Stuti Mañjarī - Vol.2</p>
+		</div>
+	</div>
+</div>
+<div class="container">	
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
 			<span>1</span>

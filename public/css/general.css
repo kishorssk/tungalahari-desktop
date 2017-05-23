@@ -401,6 +401,7 @@ a{
 
 .album-text{
 	margin-top:15px;
+	margin-bottom:15px;
 	font-weight:bold;
 }
 
@@ -479,6 +480,11 @@ position: absolute;
 .followMeBar.fixed.absolute {
   position: absolute;
 }
- 
+
+.album-text{
+	margin-top:15px;
+	margin-bottom:15px;
+	font-weight:bold;
+}
  
 }

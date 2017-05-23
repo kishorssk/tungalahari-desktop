@@ -1,10 +1,16 @@
-<div class="container">
-	<div class="row b-border">
+<div class="container b-img">
+	<div class="row">
 		<div class="col-lg-12 text-center">
-			<img src="<?=STOCK_IMAGE_URL?>011.jpg" alt="" class="img-thumbnail"><br/>
-			<p class="album-text">Homage to Sri Sadashiva Brahmendral</p>
+			<img src="<?=STOCK_IMAGE_URL?>011.jpg" alt="" class="img-thumbnail">
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-lg-12 followMeBar text-center">
+				<p class="album-text">Homage to Sri Sadashiva Brahmendral</p>
+		</div>
+	</div>
+</div>
+<div class="container">
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
 			<span>1</span>
