@@ -49,7 +49,6 @@
     <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.png">
 </head>
 <body>
-<?php echo file_get_contents( BASE_URL . 'vendor/analyticstracking.php' ); ?>
     <!-- Navigation
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <nav class="navbar navbar-default wider">
