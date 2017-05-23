@@ -1,12 +1,23 @@
-<div class="container">
+<div class="container  b-img">
 	<div class="row">
-		<div class="col-md-12 text-center">
-			<img src="<?=STOCK_IMAGE_URL?>001.jpg" alt="" class="img-thumbnail"><br>
+		<div class="col-lg-12 text-center">
+			<img src="<?=STOCK_IMAGE_URL?>001.jpg" alt="" class="img-thumbnail">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-12  text-center album-text">
 			<audio controls>
 			<source src="http://192.155.224.66/stage/files/tungalahari/128/001/005/index.mp3" type="audio/mpeg">
 			</audio>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12">
+			<h3>॥शारदाभुजङ्गप्रयाताष्टकम्॥</h3>
 			<div class="panel-body">
-				<p>सुवक्षोजकुम्भां सुधापूर्णकुम्भां प्रसादावलम्बां प्रपुण्यावलम्बाम्‌ ।<br/>
+								<p>सुवक्षोजकुम्भां सुधापूर्णकुम्भां प्रसादावलम्बां प्रपुण्यावलम्बाम्‌ ।<br/>
 				सदास्येन्दुबिम्बां सदानोष्ठबिम्बां भजे शारदाम्बामजस्रं मदम्बाम्‌॥१॥</p>
 
 				<p>कटाक्षे दयार्द्रां करे ज्ञानमुद्रां कलाभिर्विनिद्रां कलापैः सुभद्राम्‌ ।<br/>

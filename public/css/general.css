@@ -370,6 +370,12 @@ p.img-small img{
 .panel-body{
     font-family: Sanskrit2003;
     font-size:18px;
+    text-align: center;
+    color: #252323;
+}
+
+.panel-body p{
+	padding : 10px;
 }
 
 a{
@@ -431,7 +437,12 @@ a{
 .followMeBar.fixed.absolute {
 
 }
-
+h3{
+font-family: Sanskrit2003;
+text-align: center;
+font-weight:bold;
+color:#252323;
+}
 
 
 @media(max-width: 768px) {
@@ -486,5 +497,19 @@ position: absolute;
 	margin-bottom:15px;
 	font-weight:bold;
 }
- 
+ h3{
+ font-family: Sanskrit2003;
+ text-align: left;
+ font-weight: bold;
+ color:#252323;
+ }
+ .panel-body{
+    font-family: Sanskrit2003;
+    font-size:18px;
+    text-align: left;
+    color: #252323;
+}
+.panel-body p{
+	padding : 10px;
+}
 }
