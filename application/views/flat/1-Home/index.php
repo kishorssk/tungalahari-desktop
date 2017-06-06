@@ -12,60 +12,6 @@
 	<div class="row first-row">
 		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
 			<div class="thumbnail">
-				<a href="<?=BASE_URL?>Albums/001">
-					<img src="<?=STOCK_IMAGE_URL?>001.jpg" class="img-responsive" alt="" />
-				</a>
-				<div class="caption">
-					<span>Śrī Śāradā Stuti Mañjarī - Vol.1</span><br/>
-					<span class="sub-caption">9 songs</span>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-			<div class="thumbnail">
-				<a href="<?=BASE_URL?>Albums/002">
-					<img src="<?=STOCK_IMAGE_URL?>002.jpg" class="img-responsive" alt="" />
-				</a>
-				<div class="caption">
-					<span>Śrī Śāradā Stuti Mañjarī - Vol.2 </span></span><br/><span class="sub-caption"> 
-					<span class="sub-caption">16 songs</span>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-			<div class="thumbnail">
-				<a href="<?=BASE_URL?>Albums/003">
-					<img src="<?=STOCK_IMAGE_URL?>003.jpg" class="img-responsive" alt="" />
-				</a>
-				<div class="caption">
-					<span>Jagadguru's Compostions - Vol.1</span><br/><span class="sub-caption"> 6 songs</span>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-			<div class="thumbnail">
-				<a href="<?=BASE_URL?>Albums/004">
-					<img src="<?=STOCK_IMAGE_URL?>004.jpg" class="img-responsive" alt="" />
-				</a>
-				<div class="caption">
-					<span>Jagadguru's Compostions - Vol.2</span><br/><span class="sub-caption"> 7 songs</span>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-			<div class="thumbnail">
-				<a href="<?=BASE_URL?>Albums/005">
-					<img src="<?=STOCK_IMAGE_URL?>005.jpg" class="img-responsive" alt="" />
-				</a>
-				<div class="caption">
-					<span>Bhakthi Sudhā</span><br/><span class="sub-caption"> 6 songs</span>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-			<div class="thumbnail">
 				<a href="<?=BASE_URL?>Albums/009">
 					<img src="<?=STOCK_IMAGE_URL?>009.jpg" class="img-responsive" alt="" />
 				</a>
@@ -86,11 +32,65 @@
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
 			<div class="thumbnail">
+				<a href="<?=BASE_URL?>Albums/005">
+					<img src="<?=STOCK_IMAGE_URL?>005.jpg" class="img-responsive" alt="" />
+				</a>
+				<div class="caption">
+					<span>Bhakthi Sudhā</span><br/><span class="sub-caption"> 6 songs</span>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+			<div class="thumbnail">
+				<a href="<?=BASE_URL?>Albums/003">
+					<img src="<?=STOCK_IMAGE_URL?>003.jpg" class="img-responsive" alt="" />
+				</a>
+				<div class="caption">
+					<span>Jagadguru's Compostions - Vol.1</span><br/><span class="sub-caption"> 6 songs</span>
+				</div>
+			</div>	
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+			<div class="thumbnail">
+				<a href="<?=BASE_URL?>Albums/004">
+					<img src="<?=STOCK_IMAGE_URL?>004.jpg" class="img-responsive" alt="" />
+				</a>
+				<div class="caption">
+					<span>Jagadguru's Compostions - Vol.2</span><br/><span class="sub-caption"> 7 songs</span>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+			<div class="thumbnail">
 				<a href="<?=BASE_URL?>Albums/011">
 					<img src="<?=STOCK_IMAGE_URL?>011.jpg" class="img-responsive" alt="" />
 				</a>
 				<div class="caption">
 					<span>Homage to Sri Sadashiva Brahmendral</span><br/><span class="sub-caption"> 15 songs</span>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+			<div class="thumbnail">
+				<a href="<?=BASE_URL?>Albums/001">
+					<img src="<?=STOCK_IMAGE_URL?>001.jpg" class="img-responsive" alt="" />
+				</a>
+				<div class="caption">
+					<span>Śrī Śāradā Stuti Mañjarī - Vol.1</span><br/>
+					<span class="sub-caption">9 songs</span>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+			<div class="thumbnail">
+				<a href="<?=BASE_URL?>Albums/002">
+					<img src="<?=STOCK_IMAGE_URL?>002.jpg" class="img-responsive" alt="" />
+				</a>
+				<div class="caption">
+					<span>Śrī Śāradā Stuti Mañjarī - Vol.2 </span></span><br/><span class="sub-caption"> 
+					<span class="sub-caption">16 songs</span>
 				</div>
 			</div>
 		</div>
