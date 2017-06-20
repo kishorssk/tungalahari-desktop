@@ -5,9 +5,21 @@
 			<audio controls>
 			<source src="http://192.155.224.66/stage/files/tungalahari/128/011/007/index.mp3" type="audio/mpeg">
 			</audio>
-			<div class="panel-body">
-				<p>Lyrics for this song will be made available soon.</p>
-			</div>
+				<h2>तुन्गातरन्गे गन्गे</h2>
+<div class="panel-body">
+<p>
+	जय तुन्गातरन्गे गन्गे जय तुन्गातरन्गे ॥
+</p>
+<p>
+	कम्लभवाण्ड करण्ड पवित्रए बहु विध बन्दच्च्हेदलवित्रे ॥
+</p>
+<p>
+	दूरि क्र्तजन पाप समूहे पूरित कच्च्हप गुच्च्हग्राहे ॥
+</p>
+<p>
+	परमहम्स गुरुमणित चरित्रे ब्रह्म विष्णु स्हन्कर नुतिपात्रे ॥
+</p>
+</div>
 		</div>
 	</div>
 </div>

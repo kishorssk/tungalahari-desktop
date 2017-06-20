@@ -5,9 +5,15 @@
 			<audio controls>
 			<source src="http://192.155.224.66/stage/files/tungalahari/128/002/006/index.mp3" type="audio/mpeg">
 			</audio>
-			<div class="panel-body">
-				<p>Lyrics for this song will be made available soon.</p>
-			</div>
+			<h2>गतिजितमरालगर्वां</h2>
+				<div class="panel-body">
+					<p>	
+						गतिजितमरालगर्वां<br>
+						मतिदानधुरंधरां प्रणम्रेभ्यः ।<br>
+						यतिनाथसेवितपदा<br>
+						मतिभक्त्या नौमि शारदां सदयाम् ॥
+					</p>
+				</div>
 		</div>
 	</div>
 </div>

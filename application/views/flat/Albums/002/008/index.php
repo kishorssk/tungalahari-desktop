@@ -5,9 +5,15 @@
 			<audio controls>
 			<source src="http://192.155.224.66/stage/files/tungalahari/128/002/008/index.mp3" type="audio/mpeg">
 			</audio>
-			<div class="panel-body">
-				<p>Lyrics for this song will be made available soon.</p>
-			</div>
+				<h2>बालजंद्र् - विण पुस्तक धरिनिम</h2>
+				<div class="panel-body">
+					<p>
+						बालजंद्रपरिचुंबितशीर्षां<br>
+						लीलयैव परिरक्षितलोकाम् ।<br>
+						नीलनागसदुशाकृतिवेणीं<br>
+						शीलयामि हृदये विधिकांताम् ॥
+					</p>
+				</div>
 		</div>
 	</div>
 </div>

@@ -15,7 +15,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-lg-12">
-			<h3>॥श्रीशारदागीतम्॥</h3>
+			<h2>॥श्रीशारदागीतम्॥</h2>
 			<div class="panel-body">
 				<p>मङ्गलं वरऋष्यशृङ्गनगरवासिनि । <br/>
 				मङ्गलं सुरत्नभूषणालिभासिनि ॥</p>

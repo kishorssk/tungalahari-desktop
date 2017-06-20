@@ -5,8 +5,14 @@
 			<audio controls>
 			<source src="http://192.155.224.66/stage/files/tungalahari/128/002/011/index.mp3" type="audio/mpeg">
 			</audio>
+			<h2>सरस्वति कृपानिधे </h2>
 			<div class="panel-body">
-				<p>Lyrics for this song will be made available soon.</p>
+				<p>
+					सरस्वति कृपानिधे सरसिजासनप्रेयसि<br>
+					प्रणम्रजनपालिनि प्रचुरबोधसंदायिनि ।<br>
+					समस्तसुकलास्वपि प्रसृतमेनं जवात्<br>
+					सुरासुरनमस्कृते कुरु करात्तचिन्मुद्रिके ॥
+				</p>
 			</div>
 		</div>
 	</div>

@@ -159,7 +159,7 @@
 			<span>14</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/010/014"><span>Kalpoktaya</span><br/><span class="sub-caption">Smt. Sharada Ramana and Kum. Bharati</a></span>
+			<a href="<?=BASE_URL?>Albums/010/014"><span>Talpoktaya</span><br/><span class="sub-caption">Smt. Sharada Ramana and Kum. Bharati</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>5:45</span>

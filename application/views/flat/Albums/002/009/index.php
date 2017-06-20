@@ -5,8 +5,14 @@
 			<audio controls>
 			<source src="http://192.155.224.66/stage/files/tungalahari/128/002/009/index.mp3" type="audio/mpeg">
 			</audio>
+			<h2>वेणीं - कंभोजि</h2>
 			<div class="panel-body">
-				<p>Lyrics for this song will be made available soon.</p>
+				<p>
+					वेणीं सितेतरसमीरणभोजितुल्यां<br>
+					वाणीं च केकिकुलगर्वहरां वहंतीम् ।<br>
+					श्रोणीं गिरिस्मयविभेदचणां दधानां <br>
+					वाणीमनन्यशरणः शरणं प्रपद्ये ॥
+				</p>
 			</div>
 		</div>
 	</div>

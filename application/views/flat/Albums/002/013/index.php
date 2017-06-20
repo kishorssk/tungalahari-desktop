@@ -5,8 +5,14 @@
 			<audio controls>
 			<source src="http://192.155.224.66/stage/files/tungalahari/128/002/013/index.mp3" type="audio/mpeg">
 			</audio>
+			<h2>बालोडुुप -  श्री राग</h2>
 			<div class="panel-body">
-				<p>Lyrics for this song will be made available soon.</p>
+				<p>
+					बालोडुुपप्रविलसत्कचमध्यभागां <br>
+					नीलोत्पलप्रतिभटाक्षिविराजमानाम्  ।<br>
+					कालोन्मिषत्किसलयारुणपादपद्मां<br>
+					वाणीमनन्यशरणः शरणं प्रपद्ये ॥
+				</p>
 			</div>
 		</div>
 	</div>

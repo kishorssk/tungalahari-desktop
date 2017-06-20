@@ -5,9 +5,22 @@
 			<audio controls>
 			<source src="http://192.155.224.66/stage/files/tungalahari/128/011/011/index.mp3" type="audio/mpeg">
 			</audio>
-			<div class="panel-body">
-				<p>Lyrics for this song will be made available soon.</p>
-			</div>
+				<h2>मानस सञ्चर रे</h2>
+<div class="panel-body">
+<p>
+	मानस सञ्चर रे ब्रह्मणि मानस सञ्चर रे
+</p>
+<p>
+	मदशिखिपिञ्छ-अलंकृत-चिकुरे<br/>
+	महनीयकपोल-विजितमुकुरे ।  (मानस…)
+</p>
+<p>
+	श्रीरमणी-कुच-दुर्ग-विहारे<br />
+	सेवकजन-मन्दिर-मन्दारे।<br/>
+	परमहंस-मुख-चन्द्र-चकोरे <br/>
+	परिपूरित-मुरलीरवधारे ॥      (मानस..)
+</p>
+</div>
 		</div>
 	</div>
 </div>

@@ -5,9 +5,15 @@
 			<audio controls>
 			<source src="http://192.155.224.66/stage/files/tungalahari/128/002/003/index.mp3" type="audio/mpeg">
 			</audio>
-			<div class="panel-body">
-				<p>Lyrics for this song will be made available soon.</p>
-			</div>
+			<h2>कमनीयकवित्वदां - श्री सरस्वति नमोेस्तुते</h2>
+				<div class="panel-body">
+					<p>
+						कमनीयकवित्वदां जवा -<br>
+						द्रमणीयाम्बुजतुल्यपद्युताम ।<br>
+						शमनीयभयापहारिणीं<br>
+						रमणीं पद्मभवस्य भावये ॥
+					</p>
+				</div>
 		</div>
 	</div>
 </div>

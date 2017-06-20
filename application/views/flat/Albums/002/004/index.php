@@ -5,9 +5,15 @@
 			<audio controls>
 			<source src="http://192.155.224.66/stage/files/tungalahari/128/002/004/index.mp3" type="audio/mpeg">
 			</audio>
-			<div class="panel-body">
-				<p>Lyrics for this song will be made available soon.</p>
-			</div>
+				<h2>वाणि सरस्वति</h2>
+				<div class="panel-body">
+					<p>
+						वाणि सरस्वति भारति<br>
+						वाग्वादिनि वारिजातजनिजाये ।<br>
+						काश्मीरनिवासिनि<br>
+						कामितफलबून्ददायिनि नमस्ते ॥
+					</p>
+				</div>
 		</div>
 	</div>
 </div>
