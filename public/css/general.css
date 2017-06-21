@@ -375,7 +375,7 @@ p.img-small img{
 }
 
 .panel-body p{
-	padding : 10px;
+	line-height: 200%;
 }
 
 a{
@@ -437,7 +437,7 @@ a{
 .followMeBar.fixed.absolute {
 
 }
-h3{
+h2{
 font-family: Sanskrit2003;
 text-align: center;
 font-weight:bold;
@@ -510,6 +510,6 @@ position: absolute;
     color: #252323;
 }
 .panel-body p{
-	padding : 10px;
+	line-height: 200%;
 }
 }

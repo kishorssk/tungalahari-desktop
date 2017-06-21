@@ -6,7 +6,7 @@
 	</div>
 	<div class="row">
 		<div class="col-lg-12 followMeBar text-center">
-					<p class="album-text">Śrī Śāradā Stuti Mañjarī - Vol.2</p>
+			<p class="album-text">Śrī Śāradā Stuti Mañjarī - Vol. 2</p>
 		</div>
 	</div>
 </div>
@@ -16,7 +16,7 @@
 			<span>1</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/001"><span>Sadguru Gajasya Vani</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/001"><span>Invocatory verse from Śrī Ganēśa Stuti Mañjarī</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>1:22</span>
@@ -24,10 +24,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >2</span>
+			<span>2</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/002"><span>Vedabhyasa Jadopi</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/002"><span>Śrī Śāradāśataślōkī - Vedābhyāsa Jaḍōpi</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>3:11</span>
@@ -35,10 +35,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >3</span>
+			<span>3</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/003"><span>Kamaniya Kavitvadam & Sri Sarasvathi Namostute</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/003"><span>Śrī Śāradāśataślōkī - Kamanīyakavitvadām</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>4:21</span>
@@ -46,10 +46,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >4</span>
+			<span>4</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/004"><span>Vani Sarasvati</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/004"><span>Śrī Śāradāśataślōkī - Vaṇi Sarasvati</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>1:03</span>
@@ -57,10 +57,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >5</span>
+			<span>5</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/005"><span>Kalavati Kamalasana Yuvati</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/005"><span>Kalāvatī Kamalāsana Yuvatī</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>3:43</span>
@@ -68,10 +68,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >6</span>
+			<span>6</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/006"><span>Gati Jita Marala Garvam</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/006"><span>Śrī Śāradādaśakam - Gatijitamarālagarvāṃ</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>1:18</span>
@@ -79,10 +79,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >7</span>
+			<span>7</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/007"><span>Sarasvati Chayatarangini</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/007"><span>Sarasvatī Cāyātaraṅgiṇi</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>3:55</span>
@@ -90,10 +90,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >8</span>
+			<span>8</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/008"><span>Bala Chandra & Vina Pustaka Dharinim</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/008"><span>Śrī Śāradāstavakadambam - Bālacandra</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 gap-right">
 			<span>10:15</span>
@@ -101,10 +101,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >9</span>
+			<span>9</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/009"><span>Venim-Kambhoji</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/009"><span>Śrī Vāṇīśaraṇagatistōtram - Vēṇīṃ</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>1:24</span>
@@ -112,10 +112,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >10</span>
+			<span>10</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/010"><span>Namo Namaste Girvani</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/010"><span>Namō Namastē Gīrvāṇī</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>2:55</span>
@@ -123,10 +123,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >11</span>
+			<span>11</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/011"><span>Sarasvati Krpanidhe</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/011"><span>Śrī Śāradāstutiḥ - Sarasvati Kṛpānidhē</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>2:00</span>
@@ -134,10 +134,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >12</span>
+			<span>12</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/012"><span>Sarasvatya Bhagavatya Samrakshitoham</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/012"><span>Sarasvatyā Bhagavatyā Saṃrakṣitōham</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>4:49</span>
@@ -145,10 +145,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >13</span>
+			<span>13</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/013"><span>Balodupa-Sri Raga</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/013"><span>Śrī Vāṇīśaraṇagatistōtram - Balōḍupa</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>1:17</span>
@@ -156,10 +156,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >14</span>
+			<span>14</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/014"><span>Sharavati Tata Vasini</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/014"><span>Śarāvati Taṭavāsinī</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>2:27</span>
@@ -167,10 +167,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >15</span>
+			<span>15</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/015"><span>Mudra Pustaka & Bharati Maddishana Jadyapahe</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/015"><span>Śrī Śāradāstavakadambam - Mudrāpustakamālikā</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>6:03</span>	
@@ -178,10 +178,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >16</span>
+			<span>16</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/002/016"><span>Vidya Mudrakshamala</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
+			<a href="<?=BASE_URL?>Albums/002/016"><span>Vidyā Mudrākṣamālā</span><br/><span class="sub-caption">Sangita Kalanidhi Smt. R. Vedavalli</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>1:27</span>

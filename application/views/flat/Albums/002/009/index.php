@@ -3,9 +3,9 @@
 		<div class="col-md-12 text-center">
 			<img src="<?=STOCK_IMAGE_URL?>002.jpg" alt="" class="img-thumbnail"><br>
 			<audio controls>
-			<source src="http://192.155.224.66/stage/files/tungalahari/128/002/009/index.mp3" type="audio/mpeg">
+				<source src="http://192.155.224.66/stage/files/tungalahari/128/002/009/index.mp3" type="audio/mpeg" />
 			</audio>
-			<h2>वेणीं - कंभोजि</h2>
+			<h2>॥ श्रीवाणीशरणागतिस्तोत्रम् ॥</h2>
 			<div class="panel-body">
 				<p>
 					वेणीं सितेतरसमीरणभोजितुल्यां<br>

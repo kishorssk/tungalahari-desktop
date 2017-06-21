@@ -6,7 +6,7 @@
 	</div>
 	<div class="row">
 		<div class="col-lg-12 followMeBar text-center">
-			<p class="album-text">Śrī Śāradā Stuti Mañjarī - Vol.1</p>
+			<p class="album-text">Śrī Śāradā Stuti Mañjarī - Vol. 1</p>
 		</div>
 	</div>
 </div>
@@ -16,7 +16,7 @@
 			<span>1</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/001/001"><span>Invocatory verse from the Sri Ganesha stuti manjari </span><br/><span class="sub-caption"> Smt. Bombay Jayashri </a></span>
+			<a href="<?=BASE_URL?>Albums/001/001"><span>Invocatory verse from Śrī Ganēśa Stuti Mañjarī</span><br/><span class="sub-caption"> Smt. Bombay Jayashri</span></a>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>1:39</span>
@@ -24,10 +24,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >2</span>
+			<span>2</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/001/002"><span>Sri Sharada Gitam - Bhagavati Bhavasodari </span><br/><span class="sub-caption">Smt. Bombay Jayashri </a></span>
+			<a href="<?=BASE_URL?>Albums/001/002"><span>Śrī Śāradā Gītam - Bhagavati Bhavasōdari</span><br/><span class="sub-caption">Smt. Bombay Jayashri</span></a>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>3:19</span>
@@ -35,10 +35,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >3</span>
+			<span>3</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/001/003"><span>Sri Sharada Gitam - Vidhi Mukhambhoja </span><br/><span class="sub-caption">Smt. Bombay Jayashri</a></span>
+			<a href="<?=BASE_URL?>Albums/001/003"><span>Śrī Śāradā Gītam - Vidhimukhāmbhōjahaṃsi</span><br/><span class="sub-caption">Smt. Bombay Jayashri</span></a>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>6:00</span>
@@ -46,10 +46,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >4</span>
+			<span>4</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/001/004"><span>Sri Sharada Gitam - Sharade Karunanidhe </span><br/><span class="sub-caption">Smt. Bombay Jayashri</a></span>
+			<a href="<?=BASE_URL?>Albums/001/004"><span>Śrī Śāradā Gītam - Śāradē Karunānidhē</span><br/><span class="sub-caption">Smt. Bombay Jayashri</span></a>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>6:33</span>
@@ -57,10 +57,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >5</span>
+			<span>5</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/001/005"><span>Sri Sharada Bhujangaprayatashtakam</span><br/><span class="sub-caption">Smt. Bombay Jayashri</a> </span>
+			<a href="<?=BASE_URL?>Albums/001/005"><span>Śrī Śāradā Bhujaṅgaprayātāṣṭakam</span><br/><span class="sub-caption">Smt. Bombay Jayashri</span></a>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>8:47</span>
@@ -68,10 +68,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >6</span>
+			<span>6</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/001/006"><span>Sri Sharada Svarnaratha Samarpana Padyavalih </span><br/><span class="sub-caption">Smt. Bombay Jayashri </a></span>
+			<a href="<?=BASE_URL?>Albums/001/006"><span>Śrī Śāradā Svarṇaratha Samarpaṇa Padyāvaliḥ</span><br/><span class="sub-caption">Smt. Bombay Jayashri</span></a>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>3:56</span>
@@ -79,10 +79,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >7</span>
+			<span>7</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/001/007"><span>Sri Kamalajadayitashtakam </span><br/><span class="sub-caption">Smt. Bombay Jayashri </a></span>
+			<a href="<?=BASE_URL?>Albums/001/007"><span>Śrī Kamalajadayitāṣṭakam</span><br/><span class="sub-caption">Smt. Bombay Jayashri</span></a>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>14:41</span>
@@ -90,10 +90,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >8</span>
+			<span>8</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/001/008"><span>Sri Sharada Varnamalastavah</span><br/><span class="sub-caption">Smt. Bombay Jayashri </a></span>
+			<a href="<?=BASE_URL?>Albums/001/008"><span>Śrī Śāradāvarṇamālāstavaḥ</span><br/><span class="sub-caption">Smt. Bombay Jayashri</span></a>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 gap-right">
 			<span>11:18</span>
@@ -101,10 +101,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >9</span>
+			<span>9</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/001/009"><span>Sri Sharada Gitam - Mangalam vara Rshyasrnga nagara vasini </span><br/><span class="sub-caption">Smt. Bombay Jayashri</a></span>
+			<a href="<?=BASE_URL?>Albums/001/009"><span>Śrī Śāradā Gītam - Maṅgalaṃ Varaṛṣyaśṛṅga nagara vāsini</span><br/><span class="sub-caption">Smt. Bombay Jayashri</span></a>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>2:25</span>

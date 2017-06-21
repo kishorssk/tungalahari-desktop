@@ -6,7 +6,7 @@
 	</div>
 	<div class="row">
 		<div class="col-lg-12 followMeBar text-center">
-					<p class="album-text">Jagadguru's Compostions - Vol.1</p>
+			<p class="album-text">Jagadguru’s Compositions - Vol. 1</p>
 		</div>
 	</div>
 </div>
@@ -16,7 +16,7 @@
 			<span>1</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/003/001"><span>Ganesha ShlokaH, Pranamami Ganeshwaram</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/003/001"><span>Vandē Dēvaṃ - Pranamāmi Gaṇēśvaraṃ</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>8:10</span>
@@ -27,7 +27,7 @@
 			<span>2</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/003/002"><span>Shri Sharadambam Bhaje</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/003/002"><span>Śrīśāradāmbaṃ Bhajē</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>6:04</span>
@@ -38,7 +38,7 @@
 			<span>3</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/003/003"><span>Sri Shankaracharya StavaH</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/003/003"><span>Śrīśaṅkarācāryastavaḥ</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>13:08</span>
@@ -49,7 +49,7 @@
 			<span>4</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/003/004"><span>Shri Shankaracharyam Bhaja Re</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/003/004"><span>Śrīśaṅkarācāryaṃ Bhaja Rē</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>4:59</span>
@@ -60,7 +60,7 @@
 			<span>5</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/003/005"><span>Sri Chandramoulishwara Varnamala StutiH</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/003/005"><span>Śrīcandramaulīśvara Varnamālā Stutiḥ</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>10:44</span>
@@ -71,7 +71,7 @@
 			<span>6</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/003/006"><span>Dasharathe mam palaya</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/003/006"><span>Dāśarathē Māṃ Pālaya</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>10:28</span>

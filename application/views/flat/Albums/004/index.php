@@ -6,7 +6,7 @@
 	</div>
 	<div class="row">
 		<div class="col-lg-12 followMeBar text-center">
-					<p class="album-text">Jagadguru's Compostions - Vol.2</p>
+			<p class="album-text">Jagadguru’s Compositions - Vol. 2</p>
 		</div>
 	</div>
 </div>
@@ -16,7 +16,7 @@
 			<span>1</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/004/001"><span>Sri Gurudhyanam</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/004/001"><span>Śrī Gurudhyānam</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>6:27</span>
@@ -24,10 +24,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >2</span>
+			<span>2</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/004/002"><span>Sri Subramanyeshwara Geetam</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/004/002"><span>Śrī Subrahmanyēśvaragītam</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>6:21</span>
@@ -35,10 +35,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >3</span>
+			<span>3</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/004/003"><span>Bhajare loka Gurum</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/004/003"><span>Bhaja Rē Lōkaguruṃ</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>6:01</span>
@@ -46,10 +46,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >4</span>
+			<span>4</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/004/004"><span>Shankara Deshika Mamava</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/004/004"><span>Śaṅkaradēśika Māmava</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>6:43</span>
@@ -57,10 +57,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >5</span>
+			<span>5</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/004/005"><span>Sri Sachidananda Shivabhinava Narsimha Bharati Ashtakam</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/004/005"><span>Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Aṣṭakam</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>12:37</span>
@@ -68,10 +68,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >6</span>
+			<span>6</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/004/006"><span>Dharma Shastha Stotram</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/004/006"><span>Dharma Śāsta Stōtram</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>12:04</span>
@@ -79,10 +79,10 @@
 	</div>
 	<div class="row b-border">
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 text-right">
-			<p >7</span>
+			<span>7</span>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-8">
-			<a href="<?=BASE_URL?>Albums/004/007"><span>Sri Shankaracharya Variyam</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
+			<a href="<?=BASE_URL?>Albums/004/007"><span>Śrīśaṅkarācāryavaryam</span><br/><span class="sub-caption">Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi</a></span>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-2">
 			<span>3:39</span>
