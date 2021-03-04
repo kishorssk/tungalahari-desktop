@@ -3,7 +3,7 @@
 		<div class="col-md-12 text-center">
 			<img src="<?=STOCK_IMAGE_URL?>003.jpg" alt="" class="img-thumbnail"><br>
 			<audio controls>
-				<source src="http://192.155.224.66/stage/files/tungalahari/128/003/006/index.mp3" type="audio/mpeg" />
+				<source src="http://stage.sriranga.digital/tungalahari/128/003/006/index.mp3" type="audio/mpeg" />
 			</audio>
 			<h2>दाशरथे मां पालय</h2>
 			<div class="panel-body">
