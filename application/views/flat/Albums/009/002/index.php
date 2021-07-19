@@ -3,7 +3,7 @@
 		<div class="col-md-12 text-center">
 			<img src="<?=STOCK_IMAGE_URL?>009.jpg" alt="" class="img-thumbnail"><br>
 			<audio controls>
-				<source src="http://stage.sriranga.digital/tungalahari/128/009/002/index.mp3" type="audio/mpeg" />
+				<source src="https://stage.srirangadigital.com/tungalahari/128/009/002/index.mp3" type="audio/mpeg" />
 			</audio>
 			<h2>॥ देशिकोत्कर्षमञ्जरी ॥</h2>
 			<div class="panel-body">

@@ -7,7 +7,7 @@
 	<div class="row">
 		<div class="col-lg-12  text-center album-text">
 			<audio controls>
-			<source src="http://stage.sriranga.digital/tungalahari/128/001/002/index.mp3" type="audio/mpeg" />
+			<source src="https://stage.srirangadigital.com/tungalahari/128/001/002/index.mp3" type="audio/mpeg" />
 			</audio>
 		</div>
 	</div>
