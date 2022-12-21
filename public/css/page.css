@@ -910,6 +910,9 @@ button.toggle-button{
  }
  .gap-above-more{
   margin-top: 7em;
+ } 
+ .gap-above-medium{
+  margin-top: 1.5em;
  }
  .year-holder{
   padding: 15px !important;
